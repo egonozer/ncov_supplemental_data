@@ -1,0 +1,2 @@
+# Supplemental Data
+Supplemental figures and data for MedRxiv manuscript [A Unique Clade of SARS-CoV-2 Viruses is Associated with Lower Viral Loads in Patient Upper Airways](https://www.medrxiv.org/content/10.1101/2020.05.19.20107144v1)
